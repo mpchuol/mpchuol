@@ -1,33 +1,34 @@
-# Hi, I'm Maker
+# Hi, I'm Maker Panom Chuol
 
-I'm a Python learner documenting my journey one commit at a time. I started with the basics and I'm working my way toward building real, usable applications.
+Software Engineering undergraduate at USIU-Africa (GPA 3.61) and Mastercard Foundation Scholar. I build things that solve real problems â€” from teaching digital literacy to managing organizational finances.
 
-## What I'm learning
+## Technical skills
 
-- Python fundamentals (loops, conditionals, functions, error handling)
-- Working with data (Excel, CSV, web scraping)
-- Web development with Flask
+- **Languages:** Python, Java, C++, HTML/CSS
+- **Core areas:** Data Structures & Algorithms, System Design, Software Testing & Validation
+- **Tools:** Git, Google Workspace, Microsoft Office
 
-## Progress so far
+## What I do
 
-- Completed 27 days of a 30-day Python challenge
-- Built a Flask web project
-- Practicing real-world problems and automation
+- Software Development & Systems Design
+- Digital Literacy & Coding Education (volunteer instructor)
+- Community-based project coordination
 
-## Featured repos
+## Featured work
 
-- [The-30-Days_python-challenge](https://github.com/mpchuol/The-30-Days_python-challenge) - My daily Python practice, 27 days and counting
-- [Trask-Tracker](https://github.com/mpchuol/Trask-Tracker) - Activity tracker (in progress, private)
-- [Web-page](https://github.com/mpchuol/Web-page) - A home page project (in progress, private)
+- [The-30-Days_python-challenge](https://github.com/mpchuol/The-30-Days_python-challenge) â€” 27 days of daily Python practice, from fundamentals to a Flask project
+- [Web-page](https://github.com/mpchuol/Web-page) â€” Home page project *(private, in progress)*
+- [Trask-Tracker](https://github.com/mpchuol/Trask-Tracker) â€” Activity tracking tool *(private, in progress)*
 
-## On my roadmap
+## Leadership & volunteering
 
-- Build a complete project from scratch and deploy it
-- Learn Git workflows beyond the basics
-- Contribute to an open-source project
-- Learn SQL + databases
+- **Treasurer â€” Sudanese Student Association** (2024-2025): managed budgets, financial reporting, transparency
+- **Secretary General â€” African Transformative Voice** (2022-2023): documentation, cross-team coordination
+- **Peer Tutor â€” Angaza Center**: taught digital literacy and basic coding to secondary school students
+- **Instructor â€” Refugee Youth Uplifters**: delivered Microsoft Office and computer skills training to youth in Kakuma
 
-## Get in touch
+## Contact
 
+- Email: [makerpanom@gmail.com](mailto:makerpanom@gmail.com)
+- LinkedIn: [maker-panom-60494932a](https://linkedin.com/in/maker-panom-60494932a)
 - GitHub: [@mpchuol](https://github.com/mpchuol)
-- [makerpanom@gmail.com]
