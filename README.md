@@ -12,13 +12,13 @@ I'm a Python learner documenting my journey one commit at a time. I started with
 
 - Completed 27 days of a 30-day Python challenge
 - Built a Flask web project
-- Practicing real-world problems like tax calculation
+- Practicing real-world problems and automation
 
 ## Featured repos
 
 - [The-30-Days_python-challenge](https://github.com/mpchuol/The-30-Days_python-challenge) - My daily Python practice, 27 days and counting
-- [TAX_COLLECTOR](https://github.com/mpchuol/TAX_COLLECTOR) - A Python tool for calculating tax
-- [Nestedif](https://github.com/mpchuol/Nestedif) - Practicing nested conditionals in Python
+- [Trask-Tracker](https://github.com/mpchuol/Trask-Tracker) - Activity tracker (in progress, private)
+- [Web-page](https://github.com/mpchuol/Web-page) - A home page project (in progress, private)
 
 ## On my roadmap
 
