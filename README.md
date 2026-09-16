@@ -1,6 +1,6 @@
 # Hi, I'm Maker Panom Chuol
 
-Software Engineering undergraduate at USIU-Africa (GPA 3.61) and Mastercard Foundation Scholar. I build things that solve real problems â€” from teaching digital literacy to managing organizational finances.
+Software Engineering undergraduate at USIU-Africa. I build things that solve real problems from teaching digital literacy to managing organizational finances.
 
 ## Technical skills
 
@@ -17,15 +17,15 @@ Software Engineering undergraduate at USIU-Africa (GPA 3.61) and Mastercard Foun
 ## Featured work
 
 - [The-30-Days_python-challenge](https://github.com/mpchuol/The-30-Days_python-challenge) â€” 27 days of daily Python practice, from fundamentals to a Flask project
-- [Web-page](https://github.com/mpchuol/Web-page) â€” Home page project *(private, in progress)*
-- [Trask-Tracker](https://github.com/mpchuol/Trask-Tracker) â€” Activity tracking tool *(private, in progress)*
+- [Web-page](https://github.com/mpchuol/Web-page)  Home page project *(private, in progress)*
+- [Trask-Tracker](https://github.com/mpchuol/Trask-Tracker) Activity tracking tool *(private, in progress)*
 
 ## Leadership & volunteering
 
-- **Treasurer â€” Sudanese Student Association** (2024-2025): managed budgets, financial reporting, transparency
-- **Secretary General â€” African Transformative Voice** (2022-2023): documentation, cross-team coordination
-- **Peer Tutor â€” Angaza Center**: taught digital literacy and basic coding to secondary school students
-- **Instructor â€” Refugee Youth Uplifters**: delivered Microsoft Office and computer skills training to youth in Kakuma
+- **Treasurer Sudanese Student Association** (2024-2025): managed budgets, financial reporting, transparency
+- **Secretary General African Transformative Voice** (2022-2023): documentation, cross-team coordination
+- **Peer Tutor Angaza Center**: taught digital literacy and basic coding to secondary school students
+- **Instructor Refugee Youth Uplifters**: delivered Microsoft Office and computer skills training to youth in Kakuma
 
 ## Contact
 
